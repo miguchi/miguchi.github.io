@@ -1,0 +1,84 @@
+body{
+	text-align:center;	
+	color:#ffffff;
+	font-family:Helvetica, Arial, sans-serif;
+	margin:0 0px;
+	background-color: #000;
+}
+a:link{
+	color:#fff;
+}
+a:visited{
+	color:#fff;
+}
+a{
+	text-decoration:none;
+}
+h1{
+	font-size:72px;
+}
+h3{
+	font-size:36px;
+}
+header{
+}
+nav{	
+	word-spacing: 30px;
+}
+nav a:hover{
+	text-decoration:underline;
+}
+#header{
+	background-color: #000;
+	font-size:16px;
+	padding-top:20px;
+	padding-bottom:20px;
+	position:fixed;
+	top:0;
+	margin:auto;
+	left:0;
+	right:0;
+	width:100%;
+	line-height: 40px;
+}
+#home {
+    background-image:url(../images/skull680.gif);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:95vh;
+}
+#home div{
+     padding-top:170px;
+}
+#home h3{
+	margin-top:-30px;
+}
+#order{
+	display:block;
+	height:83px;
+	width:125px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	background-color:white;
+	color:black;
+	border-radius:25px;
+	border:2px solid #000;
+	line-height:75px;
+	margin-top:-20px;
+	font-weight: none;
+	font-size: 16px;
+}
+#order:hover{
+	background-color:#e6af4b;
+}
+#shop{
+	background-size:100% 100%;
+	height:720px;
+	margin:0 0px;
+	border:0px;
+}
+
+
+
+
