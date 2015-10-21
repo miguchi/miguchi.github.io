@@ -73,10 +73,26 @@ nav a:hover{
 	background-color:#e6af4b;
 }
 #shop{
-	background-size:100% 100%;
-	height:100%;
+	height:65vh;
+	margin: 0% auto 0% auto;
+	width:85%;
+	padding-top:10%;
 }
-
+.left {
+	float:left;
+}
+#about{
+	clear:both;
+	background-color:white;
+	color:#000;
+	height:65vh;
+	width:100%;
+	padding-top:10%;
+	text-align:left;
+}
+#contact{
+	clear:both;
+}
 
 
 
