@@ -61,14 +61,14 @@ header {
 	text-align:center;
 }
 #logo {
-	float:left;
+	position:absolute;
 	margin-top:-1%;
 	margin-left:1%;
 	margin-bottom:-2%;
-	background-repeat:no-repeat;
-	background-image:url(../images/logo.png);
 }
-
+#logo img{
+	border-radius:2px;
+}
 #home {
     background-image:url(../images/skull680.gif);
     background-size:cover;
