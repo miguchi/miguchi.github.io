@@ -1,3 +1,8 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
 body{
 	font-family:Helvetica;
 	font-size:16px;
@@ -20,7 +25,7 @@ p {
     font-size:0;
 }
 header{
-	background-color:#FFED74; /*(how to get rid of margins around the header?)*/
+	background-color:#FFED74; /*(how to get rid of margins around the header? add the * universal selector)*/
 }
 nav{
 	background-color:#E8C66A;
@@ -79,7 +84,7 @@ input{
 }
 .second_level_nav_button{
 	width:10em;
-	float:right; /*(How can I make this stay right?)*/
+	float:right;
 }
 /*side nav and main wrapper shared characteristics*/
 .wrapper_main, .side_nav {
@@ -89,8 +94,7 @@ input{
 	border-radius:5px;
 }
 .wrapper_main {
-	width:78%; /*(How can I make this the same width as the header above?)*/
-	position:relative; /*(Is this right?)*/
+	width:78%; 
 	margin-left:21%;
 	padding:0px 5px;
 }
@@ -99,10 +103,11 @@ input{
 .filterbar{
 	padding-top:3px;
 	background-color:blue;
+
 }
 #positionfilter {
 	float:left;
-	z-index:10;
+	z-index:100;
 }
 #schoolfilter {
 	float:left;
@@ -140,19 +145,21 @@ input{
 /*End of filter CSS*/
 .search {
 	width:5%;
+	min-width:200px;
 	height:1.6em;
-	display:inline-block;
-	/*float:right;*/ /*(How do I not have the search be cut off if I float right?)*/
-	margin-left:78%;
+	/*display:block;*/
+	float:right; 
+	/*margin-left:78%;*/
+	display:block;
+	margin-right:1em;
 }
-.search img{
-	position:absolute;
-	height:1.318em;
-	margin-left:5px;
-}
+
 .search input{
 	padding-left:1.8em;
 	border-radius:5px;
+	box-sizing:border-box;
+	background: url("../images/searchicon.png") no-repeat 2px #fff;
+	background-size: 10%;
 }
 
 /*Action bar*/
@@ -160,10 +167,12 @@ input{
 	padding-top:.5em;
 	background-color:red;
 	padding-bottom:.5em;
+	height:42px;
 
 }
-.actionfilter {
-	z-index:-1;
+#actionfilter {
+	position:static;
+	/*z-index: ;*/
 }
 /*.action_bar + .actionfilter {
 	z-index:10;	
