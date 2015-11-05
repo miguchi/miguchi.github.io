@@ -6,14 +6,18 @@ body{
 a {
 	text-decoration:none;
 	display:block;
+	color:#000;
+}
+p {
+	margin:0px;
 }
 .clearfix:after {
-	visibility:hidden;
-	display:block;
-	content:”.”;
-	clear:both;
-	height:0;
-	font-size:0;
+    visibility:hidden;
+    display:block;
+    content:" ";
+    clear:both;
+    height:0;
+    font-size:0;
 }
 header{
 	background-color:#FFED74; /*(how to get rid of margins around the header?)*/
@@ -33,13 +37,19 @@ img {
 }
 ul {
 	list-style:none;
+	margin:0px;
+	padding:0px;
 }
 input{
-	font-style:Helvetica,Arial,sans-serif;
+	font-family:Helvetica,Arial,sans-serif;
 	font-size:1em;
 	border:1px solid #d3d3d3;
 	padding-left:5px;
 }
+.wrapper {
+	position:relative;
+}
+
 /*Top header*/
 .main_header, .main_header img{
 	height:50px;
@@ -52,6 +62,7 @@ input{
 .side_nav{
 	width:20%;
 	margin-right:1em;
+	position:absolute;
 }
 .user_nav_button, .nav_button{
 	height:1.318em;
@@ -78,42 +89,110 @@ input{
 	border-radius:5px;
 }
 .wrapper_main {
-	width:78%; /*(How can I make this the same width?)*/
+	width:78%; /*(How can I make this the same width as the header above?)*/
+	position:relative; /*(Is this right?)*/
+	margin-left:21%;
+	padding:0px 5px;
 }
 
 /*Filter row*/
 .filterbar{
-	height:1.5em;
+	padding-top:3px;
+	background-color:blue;
 }
-.filterbar ul{
+#positionfilter {
 	float:left;
-	margin:2px 5em 0px 5px;
-	background-color:#fff;
-	padding:0px 5px;
-	border-radius:5px;
+	z-index:10;
 }
-.filterbar input{
-	float:right;
+#schoolfilter {
+	float:left;
+	margin-left:15%;
+}
+/*Start of filter CSS*/
+.filter{
+	display:inline-block;
+}
+.topfilter{
+	background-color:#fff;
+	position:absolute;
+	border-radius:2px;
+	padding:0px px;
+	height:1.6em;
+	width:6em;
+}
+.bottomfilter{
+	display:none;
+}
+.bottomfilter a{
+	background-color:#fff;
+}
+.topfilter:hover .bottomfilter{
+	display:block;
+	width:6em;
+}
+.bottomfilter a:hover {
+	background-color:#d3d3d3;
+}
+.filter > .topfilter a:hover{
+	font-weight:700;
+}
+
+/*End of filter CSS*/
+.search {
+	width:5%;
+	height:1.6em;
+	display:inline-block;
+	/*float:right;*/ /*(How do I not have the search be cut off if I float right?)*/
+	margin-left:78%;
+}
+.search img{
+	position:absolute;
+	height:1.318em;
+	margin-left:5px;
+}
+.search input{
+	padding-left:1.8em;
 	border-radius:5px;
-	height:1em;
-	margin:2px 0px 0px 0px;
 }
 
 /*Action bar*/
 .action_bar {
-	height:1.5em;
+	padding-top:.5em;
+	background-color:red;
+	padding-bottom:.5em;
+
 }
+.actionfilter {
+	z-index:-1;
+}
+/*.action_bar + .actionfilter {
+	z-index:10;	
+} How do I get the transfer to be behind the by position filter? I've set .filter for 
+both the by position and transfer filters, and I don't know how to override the class for the transfer filter.*/
 .show_items {
-	position:absolute;
-	margin-left:50%;
-	width:10em;
+	width:auto;
 	margin-top:2px;
+	float:left;
+	margin-left:61%;
+	background-color:green;
 }
 .pages {
 	margin-top:2px;
-	position:absolute;
-	margin-left:65%;
+	float:left;
+	margin-left:11%;
+	width:auto;
 }
-.show_items span{
-	display:inline; /*(How do I get show and items to be inline?)*/
+.pages img{
+	height:1em;
 }
+.pages img:hover{
+	background-color:#fff;
+}
+#showfilter {
+	margin-left:.5em;
+}
+.show_items p, ul{ /*This is my hack because the items filter and show were not displaying inline.*/
+	float:left;
+}
+
+

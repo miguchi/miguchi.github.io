@@ -6,8 +6,9 @@
 </head>
 
 <body>
-
-<div class="wrapper_page">
+<!-- 	Which elements should I apply the clearfix class to? After a main wrapper? What if there are two columns, but nothing underneath?
+ -->
+<div class="wrapper">
 
 	<header class="main_header">
 		<img src="images/menuicon.png">
@@ -23,22 +24,64 @@
 	</nav>
 
 	<div class="wrapper_main">
-		<header class="filterbar">
-			<ul>Filter here</ul>
-			<ul>Filter here</ul>
-			<input type="text" placeholder="Search"></input>
+		<header class="filterbar clearfix">
+			<ul class="filter" id="positionfilter">
+				<li class="topfilter">By Position
+					<ul>
+						<li class="bottomfilter"><a href="">Position 1</a></li>
+						<li class="bottomfilter"><a href="">Position 2</a></li>
+						<li class="bottomfilter"><a href="">Position 3</a></li>
+					</ul>
+				</li>
+			</ul>
+
+
+			<ul class="filter" id="schoolfilter">
+				<li class="topfilter">By Work
+					<ul>
+						<li class="bottomfilter"><a href="">School 1</a></li>
+						<li class="bottomfilter"><a href="">School 2</a></li>
+						<li class="bottomfilter"><a href="">School 3</a></li>
+					</ul>
+				</li>
+			</ul>
+
+			<div class="search"><img src="images/searchicon.png"><input type="text" placeholder="Search"></input></div>
 		</header>
 
-		<header class="action_bar">
-			<div class="show_items"><span><!-- <b>Show:</b> --><a><b>Show: </b>30 items</a></span>
+		<header class="action_bar clearfix">
+			<ul class="filter actionfilter">
+				<li class="topfilter">Transfer
+ 					<ul>
+						<li class="bottomfilter"><a href="">Transfer 1</a></li>
+						<li class="bottomfilter"><a href="">Transfer 2</a></li>
+						<li class="bottomfilter"><a href="">Transfer 3</a></li>
+					</ul>
+				</li>
+			</ul>
+
+			<div class="show_items">
+				<p><b>Show:</b> </p>
+				<ul class="filter" id="showfilter">
+					<li class="topfilter">30 items
+ 						<ul>
+							<li class="bottomfilter"><a href="">50 items</a></li>
+							<li class="bottomfilter"><a href="">100 items</a></li>
+							<li class="bottomfilter"><a href="">500 items</a></li>
+						</ul>
+					</li>
+				</ul>
 			</div>
 				
-			<div class="pages">page <b>1</b> of <b>3</b>
+			<div class="pages">
+				<img src="images/left_arrow.png"> <!-- Is this right? -->
+				page <b>1</b> of <b>3</b>
+				<img src="images/right_arrow.png">
 			</div>
 		</header>
 
 		<section class="users_glance">
-<table>
+			<table>
 			<tr>
 			<a href="#">
 				<th class="column1"><a class="box" href="rostermove.html"> </a></th>
