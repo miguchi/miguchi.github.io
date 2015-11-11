@@ -41,7 +41,7 @@ nav img{
 }
 /*main content*/
 #left, #right{
-	height:92vh;
+	height:92.5vh;
 	padding-top:9%;
 }
 h2+hr {
@@ -123,7 +123,7 @@ div+hr{
 
 /*footer*/
 footer {
-}
+}/*(how to get the margin off the bottom of the screen?)*/
 #leftfoot {
 	width:50%;
 	float:left;
