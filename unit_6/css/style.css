@@ -91,7 +91,7 @@ h2+hr {
 	padding-left:10%;
 	padding-right:10%;
 }
-a.alpha {
+.alpha {
 	font-size:1.613em;
 	display:inline-block;
 	border-radius:50px;
@@ -99,27 +99,37 @@ a.alpha {
 	width:1.5em;
 	height:1.5em;
 	text-align:center;
-	padding:2.5px 0px;
+	padding:5px 0px;
 	float:left;
 }
-p{
-/*	background-color:yellow;*/
-	padding-left:15%;
-	padding-top:8px; /*(How to align with the alpha choice to the left?)*/
+.choice{
+/*	background-color:yellow;
+*/	padding-left:15%;
+	padding-top:11px; /*(How to align with the alpha choice to the left?)*/
 	height:2.5em;
 	text-align:middle;
 }
-div+hr{
-	margin:7.5% 0;
+li+hr{
+	margin:4% 0;
 }
-.choice {
+li > a{
+	height:5em;
 	display:block;
+	padding:1.316em 0 1.316em 5px; /*(how to vertical-align middle within the a without padding?)*/
 }
-.choice :hover{
-	background-color:#d3d3d3; /*(How to get the entire blcok to change color on hover?)*/
-	border-radius:5px;
-}
+li:hover .alpha { 
+  background-color:rgb(240,79,35);
 
+}
+    
+li:hover {
+  background-color:#fff;
+  border-radius:5px;
+  display:block;
+}
+li:hover .choice{
+	color:#22264b;
+}
 
 /*footer*/
 footer {
