@@ -1,0 +1,306 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+.clearfix:after {
+    visibility:hidden;
+    display:block;
+    content:" ";
+    clear:both;
+    height:0;
+    font-size:0;
+}
+
+* {Box-sizing: Border-box}
+
+body {
+	font-family:'Roboto',sans-serif;
+	font-size:16px;
+	color:black;
+	word-spacing:;
+	letter-spacing:.26px;
+	word-wrap:normal;
+	background-color:#000;
+
+}
+a {
+	text-decoration:none;
+	color:#000;
+}
+h1 {
+	width:100%;
+	text-align:center;
+	font-size:2.619em;
+	word-spacing:.1em;
+	letter-spacing:.66px;
+	font-family: "Roboto Slab", serif;
+
+}
+h2, h3 {
+	font-family: 'Roboto Slab', serif;
+	word-spacing:.05em;
+	letter-spacing:.1316px
+}
+
+
+
+header {
+	padding:5px 0 5px 5px;
+	background-color:#000;
+	color:#fff;
+	width:100%;
+	position:fixed;
+	top:0%;
+	height:3em;
+	z-index:2;
+}
+
+nav {
+	min-width:45px;
+	width:2%;
+	position:absolute;
+	top:5px;
+}
+
+li {
+	margin:5px 0;
+}
+
+.hide, .right {
+	padding:0 5px;
+}
+
+.hide h2, .right h2 {
+/*	background-color:blue;
+*/	text-transform:uppercase;
+	font-size:1.05em;
+	margin-top:.5em;
+	letter-spacing:.5px;
+	font-weight:700;
+
+}
+.hide img{
+	width:40%;
+	vertical-align:middle;
+	min-width:100px;
+}
+.hide a, .right div{
+/*	background-color:green;
+*/	display:block;
+	border-bottom:1px solid #d3d3d3;
+	padding:.5em 0;
+}
+
+.hide h3 {
+	float:right;
+/*	background-color:blue;
+*/	word-wrap:break-word;
+	width:55%;
+/*	display:inline;
+*/}
+.more {
+	display:none;
+}
+
+.wrapper {
+	margin-top:3em;
+	height:auto;
+	background-color:#fffffa;
+}
+.wrapper aside{
+	float:left;
+	width:20%;
+}
+
+.articles {
+	float:left;
+	width:80%;
+}
+
+main, .bottom{
+	border-right:2px solid #d3d3d3;
+	border-left:2px solid #d3d3d3;
+}
+main {
+	/*height:75vh;*/
+/*	background-color:red;
+*/	float:left;
+	width:74.7%;
+}
+
+main img {
+	float:left;
+	width:55%;
+	margin:1em 2.6% 0 2.6%;
+}
+
+img + div{
+/*	background-color:black;
+*/	padding:.75em 0%;
+	float:left;
+	width:37%;
+	margin-right:2.6%;
+}
+main h2 {
+	display:block;
+	font-size:3em;
+	margin-bottom:.25em;
+}
+
+main p {
+	line-height:1.1316em;
+	font-size:1.3em;
+	word-spacing:.05px;
+	letter-spacing:.13px;
+}
+
+ol {
+	padding:.5em 1em 0 1em;
+	float:left;
+/*	background-color:blue;
+*/	width:50%;
+	list-style-type:disc;
+	letter-spacing:.33px;
+
+}
+ol li {
+	margin-bottom:.5em;
+	color:#333333;
+}
+main a{
+	color:#333333;
+}
+
+.articles aside:nth-of-type(1){
+/*	background-color:blue;
+*/	float:right;
+	width:25.3%;
+}
+.articles aside:nth-of-type(2) {
+/*	background-color:black;
+*/	position:relative;
+	width:74.7%;
+	z-index:1;
+}
+
+.right h3, .bottom h3{
+	font-weight:700;
+	font-size:1.316em;
+	margin-bottom:.25em;
+}
+.right p, .bottom p{
+	font-size:.9em;
+	line-height:1.1em;
+}
+
+.bottom div {
+	width:44.8%;
+	float:left;
+	margin:1em 2.6%;
+}
+.bottom img {
+	width:100%;
+	margin-bottom:.5em;
+
+}
+@media only screen and (min-width:1201px) {
+	.body {
+		height:100%; /*(on the kindle fire, how to get the body to show as the vh?)*/
+	}
+}
+
+
+@media only screen and (max-width:1200px) {
+	.hide {
+		display:none;
+	}
+	.articles {
+		width:98.5%;
+	}
+	.more {
+		display:block;
+		float:left;
+		height:100vh;
+		width:1.5%;
+		color:white;
+		background-color:#000;
+
+	}
+	.wrapper {
+		background-color:#000;
+		height:auto;
+
+	}
+	.articles {
+		background-color:#fff;
+	}
+
+	.more a{
+		display:block;
+		transform:rotate(270deg);
+		left:-.5em;
+		position:fixed;
+		top:200px;
+		background-color:#000;
+		color:#fff;
+		height:1.5em;
+		padding:5px;
+		border-radius:0px 0px 5px 5px;
+		z-index:3;
+		font-size:16px;
+	}
+	main, .bottom{
+	border-left:none;
+	}
+
+}
+
+
+@media only screen and (max-width:720px) {
+	body {
+		font-size:12px;
+	}
+	main {
+		width:100%;
+		padding-left:6.3%;
+		padding-right:1%;
+		border-right:none;
+
+	}
+	.articles aside:nth-of-type(1) {
+		width:100%;	
+		padding-left:6.3%;
+		padding-right:1%;
+	}
+	.articles aside:nth-of-type(2) {
+		width:100%;
+		border-right:none;
+		padding-left:6.3%;
+		padding-right:1%;
+	}
+	img + div {
+		float:none;
+		clear:both;
+		width:100%;
+	}
+	main img {
+		width:45%;
+		display:block;
+		margin:0 auto;
+		float:none;
+		padding:0;
+	}
+	.right p, .bottom p{
+	font-size:1em;
+	}
+	main > div{
+		border-bottom:1px solid #d3d3d3;
+
+	}
+	header {
+		height:36px;
+	}
+	nav {
+		top:0;
+	}
+
+}

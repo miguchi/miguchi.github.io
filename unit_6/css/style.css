@@ -33,16 +33,18 @@ nav {
 	position:absolute;
 	right:0%;
 	width:3.2%;
-	margin-right:5px;
+	margin-right:.33em;
 }
 nav img{
 	width:100%;
 
 }
 /*main content*/
-#left, #right{
+section{
 	height:92.5vh;
 	padding-top:9%;
+	float:left;
+	width:50%;
 }
 h2+hr {
 	margin-top:.8em;
@@ -51,20 +53,16 @@ h2+hr {
 	color:#fff;
 }
 /*left side*/
-#left {
-/*	background-color:red;*/
-	float:left;
-	width:50%;
-}
-#left img{
+
+section img{
 	width:50%;
 	display:block;
 	margin:0 auto;
 	padding:0 0 1% 0;
-	border-radius:25px;
+	border-radius:1.5em;
 
 }
-#left h4{
+section h4{
 	margin:1.318em auto 0 auto;
 /*	background-color:yellow;*/
 	display:block;
@@ -79,12 +77,12 @@ h2+hr {
 	border-bottom: 1.6em solid transparent;
 	border-left: 1.6em solid #fff;
 	position:fixed;
-	margin-left:50%;
-	margin-top:9%;
+	left:50%;
+	top:9%;
 
 }
 /*right side*/
-#right {
+section:nth-of-type(2) {
 	background-color:rgb(68,177,132);
 	float:left;
 	width:50%;
@@ -99,23 +97,29 @@ h2+hr {
 	width:1.5em;
 	height:1.5em;
 	text-align:center;
-	padding:5px 0px;
 	float:left;
+	line-height:1.5em;
 }
 .choice{
 /*	background-color:yellow;
 */	padding-left:15%;
-	padding-top:11px; /*(How to align with the alpha choice to the left?)*/
+	padding-top:.9em; 
 	height:2.5em;
 	text-align:middle;
 }
-li+hr{
-	margin:4% 0;
+li {
+	border-bottom:1px solid #ffffff;
+	border-radius:5px;
+	padding:.5em 0;
 }
+li:last-of-type {
+	border-bottom:none;
+}
+
 li > a{
 	height:5em;
 	display:block;
-	padding:1.316em 0 1.316em 5px; /*(how to vertical-align middle within the a without padding?)*/
+	padding:1.316em 0 1.316em .33em;
 }
 li:hover .alpha { 
   background-color:rgb(240,79,35);
@@ -124,33 +128,39 @@ li:hover .alpha {
     
 li:hover {
   background-color:#fff;
-  border-radius:5px;
+  border-radius:.33em;
   display:block;
+
 }
 li:hover .choice{
 	color:#22264b;
 }
 
 /*footer*/
-footer {
-}/*(how to get the margin off the bottom of the screen?)*/
-#leftfoot {
-	width:50%;
-	float:left;
 
+
+footer{
 }
-#leftfoot img{
+
+footer div{
+	float:left;
+	width:50%;
 	height:7vh;
 }
+footer img {
+	height:3.5em;
+}
 
-#rightfoot {
-	width:50%;
+footer div:last-of-type{
 	background-color:rgb(68,177,132);
-	float:left;
-	height:7vh;
 }
+
 #privacy{
-	float:right;
 	color:#fff;
-	margin-right:5px;
+	width:auto;
+	float:right;
+	margin-right:.33em;
+	padding-top:5%;
 }
+
+

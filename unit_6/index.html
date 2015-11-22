@@ -11,9 +11,8 @@
 	<nav>
 		<img src="images/menu.png">
 	</nav>
-
-<!-- 	<div class="clearfix wrapper">Do I need a wrapper here?
- Yes, add wrapper-->	<section class="clearfix" id="left">
+	<div class="clearfix">
+		<section>
 			<h2>Question 1/10</h2>
 			<hr>
 			<img src="images/puppy.png" alt="Picture of a hipster puppy" title="Puppy all dressed up">
@@ -24,7 +23,7 @@
 	  	<div class="arrow-right"></div>
 
 
-		<section class="clearfix" id="right" > <!-- (section:nth-of-type(2) in css instead of id -->
+		<section> 
 			<h2>Select Answer Below</h2>
 			<hr>
 		
@@ -36,16 +35,12 @@
 					</a>
 				</li>
 				
-				<hr> <!-- (do border bottom instead of hr) li:last-of-type: border-bottom:none-->
-				
  				<li>
 					<a href="#">
 						<div class="alpha">B</div>
 						<div class="choice">She&#8217;s a lady.</div>
 					</a>
 				</li>
-				
-				<hr>
 
 				<li>
 					<a href="#">
@@ -53,8 +48,6 @@
 						<div class="choice">Woof!</div>
 					</a>
 				</li>
-
-				<hr>
 
 				<li>
 					<a href="#">
@@ -67,17 +60,17 @@
 		</section>
 	</div>
 	
-	<footer>
-		<div id="leftfoot">
+	<footer class="clearfix">
+		<div>
 			<img src="images/logo.jpg" alt="Logo" title="Puppy Style Logo">
 		</div>
 		
-		<div id="rightfoot">
+		<div>
 			<div id="privacy">
 				<a href="#">Privacy</a> |
 				<a href="#">Learn More</a>
 			</div>
-<!-- 		</div> -->
+		</div>
 	</footer>
 </body>
 </html>
