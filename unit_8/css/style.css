@@ -15,38 +15,34 @@
 body {
 	font-family:'Roboto',sans-serif;
 	font-size:16px;
-	color:black;
-	word-spacing:;
+	color:#000;
 	letter-spacing:.26px;
 	word-wrap:normal;
-	background-color:#000;
-
 }
 a {
 	text-decoration:none;
 	color:#000;
 }
-h1 {
+h1 { /*(only in the nav)*/
 	width:100%;
 	text-align:center;
 	font-size:2.619em;
 	word-spacing:.1em;
 	letter-spacing:.66px;
-	font-family: "Roboto Slab", serif;
-
+	font-family:'Roboto Slab', serif;
 }
-h2, h3 {
-	font-family: 'Roboto Slab', serif;
+h2, h3 { /*(h2 trending, main header, and in the news; h3 all other subheaders)*/
+	font-family:'Roboto Slab', serif;
 	word-spacing:.05em;
+	
+}
+h3 {
 	letter-spacing:.1316px
 }
-
-
-
 header {
 	padding:5px 0 5px 5px;
 	background-color:#000;
-	color:#fff;
+	color:#fffffa;
 	width:100%;
 	position:fixed;
 	top:0%;
@@ -61,11 +57,10 @@ nav {
 	top:5px;
 }
 
-li {
-	margin:5px 0;
+li { /*(right side articles)*/
 }
 
-.hide, .right {
+.hide, .right { /*(wrappers for right and left articles)*/
 	padding:0 5px;
 }
 
@@ -87,22 +82,19 @@ li {
 /*	background-color:green;
 */	display:block;
 	border-bottom:1px solid #d3d3d3;
-	padding:.5em 0;
+	padding:.75em 0;
 }
 
 .hide h3 {
 	float:right;
-/*	background-color:blue;
-*/	word-wrap:break-word;
+	word-wrap:break-word;
 	width:55%;
-/*	display:inline;
-*/}
+}
 .more {
 	display:none;
 }
-
 .wrapper {
-	margin-top:3em;
+	padding-top:3em;
 	height:auto;
 	background-color:#fffffa;
 }
@@ -125,25 +117,26 @@ main {
 /*	background-color:red;
 */	float:left;
 	width:74.7%;
+	padding:1em 1.5em;
 }
 
 main img {
 	float:left;
 	width:55%;
-	margin:1em 2.6% 0 2.6%;
-}
+	padding-right:1.5em;
+/*	padding:1em 1.5em;
+*/}
 
 img + div{
 /*	background-color:black;
-*/	padding:.75em 0%;
-	float:left;
-	width:37%;
-	margin-right:2.6%;
+*/	float:left;
+	width:45%;
 }
 main h2 {
 	display:block;
 	font-size:3em;
 	margin-bottom:.25em;
+	letter-spacing:.1316px
 }
 
 main p {
@@ -154,16 +147,15 @@ main p {
 }
 
 ol {
-	padding:.5em 1em 0 1em;
+	padding:.75em 1em 0 1em;
 	float:left;
 /*	background-color:blue;
 */	width:50%;
 	list-style-type:disc;
 	letter-spacing:.33px;
-
 }
 ol li {
-	margin-bottom:.5em;
+	margin-bottom:.75em;
 	color:#333333;
 }
 main a{
@@ -193,18 +185,18 @@ main a{
 }
 
 .bottom div {
-	width:44.8%;
+	width:50%;
 	float:left;
-	margin:1em 2.6%;
+	padding:1em 1.5em;
 }
 .bottom img {
 	width:100%;
-	margin-bottom:.5em;
+	padding-bottom:.5em;
 
 }
 @media only screen and (min-width:1201px) {
 	.body {
-		height:100%; /*(on the kindle fire, how to get the body to show as the vh?)*/
+		height:100vh; /*(on the kindle fire, how to get the body to show as the vh?)*/
 	}
 }
 
@@ -223,15 +215,6 @@ main a{
 		width:1.5%;
 		color:white;
 		background-color:#000;
-
-	}
-	.wrapper {
-		background-color:#000;
-		height:auto;
-
-	}
-	.articles {
-		background-color:#fff;
 	}
 
 	.more a{
@@ -248,35 +231,42 @@ main a{
 		z-index:3;
 		font-size:16px;
 	}
+	.wrapper {
+		background-color:#000;
+		height:auto;
+	}
+	.articles {
+		background-color:#fff;
+	}
 	main, .bottom{
-	border-left:none;
+		border-left:none;
 	}
 
 }
 
 
 @media only screen and (max-width:720px) {
-	body {
-		font-size:12px;
-	}
-	main {
-		width:100%;
-		padding-left:6.3%;
-		padding-right:1%;
-		border-right:none;
+
+	.articles {
+		padding-left: calc(1.5em + 1.5%);
+		padding-right:1em;
 
 	}
-	.articles aside:nth-of-type(1) {
-		width:100%;	
-		padding-left:6.3%;
-		padding-right:1%;
-	}
-	.articles aside:nth-of-type(2) {
-		width:100%;
+	main,.articles aside:nth-of-type(2)  {
 		border-right:none;
-		padding-left:6.3%;
-		padding-right:1%;
 	}
+	main, .articles aside:nth-of-type(1),.articles aside:nth-of-type(2) {
+		width:100%;
+		padding:1em 0 0 0;
+	}
+
+	.bottom div {
+		padding:0 0 1em 0;
+	}
+	.bottom div:nth-of-type(2n+1) {
+		padding-right:1em;
+	}
+
 	img + div {
 		float:none;
 		clear:both;
@@ -289,18 +279,19 @@ main a{
 		float:none;
 		padding:0;
 	}
-	.right p, .bottom p{
-	font-size:1em;
+	main h2 {
+		font-size:2em;
 	}
+
+
+
 	main > div{
 		border-bottom:1px solid #d3d3d3;
 
 	}
-	header {
-		height:36px;
-	}
+
 	nav {
-		top:0;
+		top:10;
 	}
 
 }
