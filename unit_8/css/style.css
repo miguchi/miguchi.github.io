@@ -296,6 +296,9 @@ main a{
 	nav {
 		top:10;
 	}
+	.bottom a:hover {
+		border:red;
+	}
 
 }
 
