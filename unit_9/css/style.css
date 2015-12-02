@@ -1,0 +1,149 @@
+/*font-family:Avenir
+color:#e6af4b;*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body{
+	color:#ffffff;
+	font-family:Roboto,Helvetica,Arial,sans-serif;
+	background-color:#000;
+	font-size:16px;
+}
+
+.clearfix:after {
+    visibility:hidden;
+    display:block;
+    content:" ";
+    clear:both;
+    height:0;
+    font-size:0;
+}
+
+* {Box-sizing: Border-box}
+
+a {
+	text-decoration:none;
+	color:#fff;
+}
+header {
+	height:3.5em;
+	background-color:#000;
+	padding:.5em .5em;
+	position:fixed;
+	width:100%;
+}
+
+
+nav{
+	display:block;
+	margin:0 auto;
+	text-align:center;
+	line-height:2.5em;
+	word-spacing:2.62em;
+	letter-spacing:;
+}
+nav a {
+
+}
+
+nav a:hover{
+	text-decoration:underline;
+	color:#e6af4b;
+}
+header div {
+	float:left;
+}
+img {
+	border-radius:5px;
+}
+main {
+	padding-top:4.5em;
+    background-image:url(../images/skull680.gif);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:95vh;
+    text-align:center;
+
+}
+h1 {
+	margin-top:1em;
+	font-size:7em;
+	font-weight:500;
+	font-family:'Roboto Slab',Georgia,serif;
+}
+h2 {
+	font-family:'Roboto Slab',Georgia,serif;
+	font-size:3.5em;
+	margin:.1618em 0 .3218em 0;
+
+}
+main a{
+	display:block;
+	height:3.3em;
+	background-color:rgb(230,175,75);
+	line-height:3.3em;
+	width:7.281em;
+	margin:0 auto 0 auto;
+	font-size:2.163em;
+	border-radius:.5em;
+	color:#fff;
+}
+
+main a:hover{
+	background-color:#fff;
+	color:rgb(230,175,75);
+	border-radius:1px solid black;
+}
+
+#shop {
+	background-color:blue;
+	height:95vh;
+	padding:4.5em 0 0 0;
+}
+
+
+#shop > div {
+	width:31.33333%;
+	float:left;
+	margin:7em 1%;
+
+}
+#shop figure{
+	display:block;
+	width:300px;
+	margin:0 auto;
+}
+figure > figcaption{
+	text-align:center;
+	padding-top:.25em;
+	font-size:1.1em;
+}
+#shop a:hover {
+	color:rgb(230,175,75);
+}
+
+#about {
+	padding:4.5em 5% 0 5%;
+	height:95vh;
+	background-color:#fff;
+	color:#000;
+}
+
+#about figure{
+	float:left;
+	background-color:yellow;
+}
+
+
+
+/*#e6af4b*/
+
+/*p{
+	letter-spacing:.02em;
+	line-height:1.1em;
+}
+
+#heart {
+	font-size:90px;
+}*/
