@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="709px" height="463px" viewBox="0 0 709 463" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>types_of_reports</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="object_oriented" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="types_of_reports">
+            <text id="Reports" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="0" y="13">Reports</tspan>
+            </text>
+            <text id="Description" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="135" y="13">Description</tspan>
+            </text>
+            <text id="Purpose" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="331" y="13">Purpose</tspan>
+            </text>
+            <text id="Proposed-data-visual" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="13">Proposed data visualization</tspan>
+            </text>
+            <text id="Standards-overview" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1" y="32">Standards overview</tspan>
+            </text>
+            <text id="Standards-by-domain" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1" y="111">Standards by domain</tspan>
+            </text>
+            <text id="Standard-performance" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1" y="206">Standard performance</tspan>
+            </text>
+            <text id="Problems-per-standar" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1" y="264">Problems per standard</tspan>
+            </text>
+            <text id="Problems-per-student" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1" y="376">Problems per student</tspan>
+            </text>
+            <text id="Shows-higher-level-c" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="136" y="32">Shows higher level categories, </tspan>
+                <tspan x="136" y="46">such as “Creating Equations,” </tspan>
+                <tspan x="136" y="60">“Reasoning in Equations and </tspan>
+                <tspan x="136" y="74">Inequalities,” and “Numbers.”</tspan>
+            </text>
+            <text id="Landing-page,-main-o" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="331" y="31">Landing page, main overview, </tspan>
+                <tspan x="331" y="45">analyze student performance on </tspan>
+                <tspan x="331" y="59">a high-level. Most useful for </tspan>
+                <tspan x="331" y="73">districts and schools to look at </tspan>
+                <tspan x="331" y="87">overall performance.</tspan>
+            </text>
+            <text id="Bar-chart" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="31">Bar chart</tspan>
+            </text>
+            <text id="Shows-the-standards-" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="136" y="111">Shows the standards within a </tspan>
+                <tspan x="136" y="125">domain. For instance, Creating </tspan>
+                <tspan x="136" y="139">Equations would have A-CED.1; </tspan>
+                <tspan x="136" y="153">A-CED.2; and A-CED.3.</tspan>
+            </text>
+            <text id="Useful-for-districts" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="332" y="112">Useful for districts, schools, </tspan>
+                <tspan x="332" y="126">teacher, students, and parents. </tspan>
+                <tspan x="332" y="140">Gives more information on </tspan>
+                <tspan x="332" y="154">which standards students are </tspan>
+                <tspan x="332" y="168">excelling or under-performing </tspan>
+                <tspan x="332" y="182">on.</tspan>
+            </text>
+            <text id="Stacked-bar-chart" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="112">Stacked bar chart</tspan>
+            </text>
+            <text id="More-detailed-specif" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="136" y="205">More detailed specifics on </tspan>
+                <tspan x="136" y="219">one specific standard, such </tspan>
+                <tspan x="136" y="233">as A-CED.1.</tspan>
+            </text>
+            <text id="Teachers-can-use-thi" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="332" y="205">Teachers can use this to </tspan>
+                <tspan x="332" y="219">diagnose which students need </tspan>
+                <tspan x="332" y="233">assistance for each standard.</tspan>
+            </text>
+            <text id="Scatter-plot-with-tr" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="205">Scatter plot with trendline?</tspan>
+            </text>
+            <text id="Shows-the-problems-t" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="136" y="264">Shows the problems that were </tspan>
+                <tspan x="136" y="278">incorrectly answered, along with </tspan>
+                <tspan x="136" y="292">all incorrect student answers.</tspan>
+            </text>
+            <text id="Most-useful-for-teac" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="332" y="264">Most useful for teachers and </tspan>
+                <tspan x="332" y="278">students. Teachers can see if </tspan>
+                <tspan x="332" y="292">there are similarities between </tspan>
+                <tspan x="332" y="306">incorrect student answers. </tspan>
+                <tspan x="332" y="320">Students can see which types </tspan>
+                <tspan x="332" y="334">of questions they are struggling </tspan>
+                <tspan x="332" y="348">with.</tspan>
+            </text>
+            <text id="List-of-problems" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="264">List of problems</tspan>
+            </text>
+            <text id="Shows-the-problems-p" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="136" y="376">Shows the problems per </tspan>
+                <tspan x="136" y="390">standard per student that were </tspan>
+                <tspan x="136" y="404">correctly and incorrectly </tspan>
+                <tspan x="136" y="418">answered.</tspan>
+            </text>
+            <text id="Most-useful-for-teac" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="332" y="376">Most useful for teachers and </tspan>
+                <tspan x="332" y="390">students. Teachers can see if </tspan>
+                <tspan x="332" y="404">there are similarities between </tspan>
+                <tspan x="332" y="418">incorrect student answers. </tspan>
+                <tspan x="332" y="432">Students can see which types </tspan>
+                <tspan x="332" y="446">of questions they are struggling </tspan>
+                <tspan x="332" y="460">with.</tspan>
+            </text>
+            <text id="List-of-problems" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#4A4A4A">
+                <tspan x="535" y="376">List of problems</tspan>
+            </text>
+            <path d="M1.46617278,16.5 L708.184106,16.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M1.46617278,94.5 L708.184106,94.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M1.46617278,188.5 L708.184106,188.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M1.46617278,247.5 L708.184106,247.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M1.46617278,357.5 L708.184106,357.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
