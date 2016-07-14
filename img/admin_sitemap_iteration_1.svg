@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1684px" height="678px" viewBox="0 0 1684 678" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>admin_sitemap_iteration_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="23" y="0" width="50" height="15"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="23" y="88" width="50" height="15"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <rect id="path-21" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <rect id="path-23" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <rect id="path-25" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <rect id="path-27" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <rect id="path-29" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <rect id="path-31" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <rect id="path-33" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <rect id="path-35" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <rect id="path-37" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <rect id="path-39" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <rect id="path-41" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <rect id="path-43" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <rect id="path-45" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <rect id="path-47" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+        <rect id="path-49" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-50" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-49"></use>
+        </mask>
+        <rect id="path-51" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-52" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-51"></use>
+        </mask>
+        <rect id="path-53" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-54" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-53"></use>
+        </mask>
+        <rect id="path-55" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-56" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-55"></use>
+        </mask>
+        <rect id="path-57" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-58" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-57"></use>
+        </mask>
+        <rect id="path-59" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <rect id="path-61" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <rect id="path-63" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <rect id="path-65" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+        <rect id="path-67" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-68" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-67"></use>
+        </mask>
+        <rect id="path-69" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-70" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-69"></use>
+        </mask>
+        <rect id="path-71" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-72" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-71"></use>
+        </mask>
+        <rect id="path-73" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-74" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-73"></use>
+        </mask>
+        <rect id="path-75" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-76" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-75"></use>
+        </mask>
+        <rect id="path-77" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-78" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-77"></use>
+        </mask>
+        <rect id="path-79" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-80" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-79"></use>
+        </mask>
+        <rect id="path-81" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-82" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-81"></use>
+        </mask>
+        <rect id="path-83" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-84" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-83"></use>
+        </mask>
+        <rect id="path-85" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-86" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-85"></use>
+        </mask>
+        <rect id="path-87" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-88" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-87"></use>
+        </mask>
+        <rect id="path-89" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-90" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-89"></use>
+        </mask>
+        <rect id="path-91" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-92" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-91"></use>
+        </mask>
+        <rect id="path-93" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-94" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-93"></use>
+        </mask>
+        <rect id="path-95" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-96" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-95"></use>
+        </mask>
+        <rect id="path-97" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-98" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-97"></use>
+        </mask>
+        <rect id="path-99" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-100" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-99"></use>
+        </mask>
+        <rect id="path-101" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-102" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-101"></use>
+        </mask>
+        <rect id="path-103" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-104" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-103"></use>
+        </mask>
+        <rect id="path-105" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-106" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-105"></use>
+        </mask>
+        <rect id="path-107" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-108" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-107"></use>
+        </mask>
+        <rect id="path-109" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-110" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-109"></use>
+        </mask>
+        <rect id="path-111" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-112" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-111"></use>
+        </mask>
+        <rect id="path-113" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-114" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-113"></use>
+        </mask>
+        <rect id="path-115" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-116" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-115"></use>
+        </mask>
+        <rect id="path-117" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-118" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-117"></use>
+        </mask>
+        <rect id="path-119" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-120" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-119"></use>
+        </mask>
+        <rect id="path-121" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-122" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-121"></use>
+        </mask>
+        <rect id="path-123" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-124" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-123"></use>
+        </mask>
+        <rect id="path-125" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-126" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-125"></use>
+        </mask>
+        <rect id="path-127" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-128" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-127"></use>
+        </mask>
+        <rect id="path-129" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-130" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-129"></use>
+        </mask>
+        <rect id="path-131" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-132" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-131"></use>
+        </mask>
+        <rect id="path-133" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-134" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-133"></use>
+        </mask>
+        <rect id="path-135" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-136" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-135"></use>
+        </mask>
+        <rect id="path-137" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-138" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-137"></use>
+        </mask>
+        <rect id="path-139" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-140" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-139"></use>
+        </mask>
+        <rect id="path-141" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-142" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-141"></use>
+        </mask>
+        <rect id="path-143" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-144" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-143"></use>
+        </mask>
+        <rect id="path-145" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-146" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-145"></use>
+        </mask>
+        <rect id="path-147" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-148" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-147"></use>
+        </mask>
+        <rect id="path-149" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-150" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-149"></use>
+        </mask>
+        <rect id="path-151" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-152" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-151"></use>
+        </mask>
+        <rect id="path-153" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-154" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-153"></use>
+        </mask>
+        <rect id="path-155" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-156" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-155"></use>
+        </mask>
+        <rect id="path-157" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-158" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-157"></use>
+        </mask>
+        <rect id="path-159" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-160" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-159"></use>
+        </mask>
+        <rect id="path-161" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-162" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-161"></use>
+        </mask>
+        <rect id="path-163" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-164" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-163"></use>
+        </mask>
+        <rect id="path-165" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-166" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-165"></use>
+        </mask>
+        <rect id="path-167" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-168" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-167"></use>
+        </mask>
+        <rect id="path-169" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-170" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-169"></use>
+        </mask>
+        <rect id="path-171" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-172" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-171"></use>
+        </mask>
+        <rect id="path-173" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-174" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-173"></use>
+        </mask>
+        <rect id="path-175" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-176" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-175"></use>
+        </mask>
+        <rect id="path-177" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-178" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-177"></use>
+        </mask>
+        <rect id="path-179" x="23" y="0" width="50" height="15"></rect>
+        <mask id="mask-180" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-179"></use>
+        </mask>
+        <rect id="path-181" x="23" y="88" width="50" height="15"></rect>
+        <mask id="mask-182" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-181"></use>
+        </mask>
+        <rect id="path-183" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-184" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-183"></use>
+        </mask>
+        <rect id="path-185" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-186" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-185"></use>
+        </mask>
+        <rect id="path-187" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-188" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-187"></use>
+        </mask>
+        <rect id="path-189" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-190" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-189"></use>
+        </mask>
+        <rect id="path-191" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-192" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-191"></use>
+        </mask>
+        <rect id="path-193" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-194" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-193"></use>
+        </mask>
+        <rect id="path-195" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-196" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-195"></use>
+        </mask>
+        <rect id="path-197" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-198" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-197"></use>
+        </mask>
+        <rect id="path-199" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-200" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-199"></use>
+        </mask>
+        <rect id="path-201" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-202" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-201"></use>
+        </mask>
+        <rect id="path-203" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-204" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-203"></use>
+        </mask>
+        <rect id="path-205" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-206" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-205"></use>
+        </mask>
+        <rect id="path-207" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-208" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-207"></use>
+        </mask>
+        <rect id="path-209" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-210" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-209"></use>
+        </mask>
+        <rect id="path-211" x="23" y="0" width="50" height="15"></rect>
+        <mask id="mask-212" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-211"></use>
+        </mask>
+        <rect id="path-213" x="23" y="88" width="50" height="15"></rect>
+        <mask id="mask-214" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-213"></use>
+        </mask>
+        <rect id="path-215" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-216" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-215"></use>
+        </mask>
+        <rect id="path-217" x="0" y="14" width="100" height="75"></rect>
+        <mask id="mask-218" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="75" fill="white">
+            <use xlink:href="#path-217"></use>
+        </mask>
+        <rect id="path-219" x="25" y="0" width="50" height="15"></rect>
+        <mask id="mask-220" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-219"></use>
+        </mask>
+        <rect id="path-221" x="25" y="88" width="50" height="15"></rect>
+        <mask id="mask-222" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="15" fill="white">
+            <use xlink:href="#path-221"></use>
+        </mask>
+        <rect id="path-223" x="99" y="27" width="15" height="50"></rect>
+        <mask id="mask-224" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="50" fill="white">
+            <use xlink:href="#path-223"></use>
+        </mask>
+    </defs>
+    <g id="object_oriented" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="admin_sitemap_iteration_1">
+            <g id="Group-16" transform="translate(792.000000, 0.000000)">
+                <g id="Group-13" transform="translate(48.000000, 103.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M3,460 L23,460" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M23,460 L12.2,457 L12.2,463 L23,460 Z" fill="#9B9B9B"></path>
+                    <g id="Group-8">
+                        <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                        <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                        <path d="M1.5,0.5 L1.5,460.5" id="Line"></path>
+                        <g id="Group-7" transform="translate(75.000000, 127.000000)">
+                            <path d="M1,76 L21,76" id="Line" fill="#9B9B9B"></path>
+                            <path id="Line-decoration-1" d="M21,76 L10.2,73 L10.2,79 L21,76 Z" fill="#9B9B9B"></path>
+                            <path d="M1,-7.77156117e-16 L1,75" id="Line"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-11" transform="translate(75.000000, 512.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-4)" stroke-width="2" transform="translate(48.000000, 7.500000) scale(1, -1) translate(-48.000000, -7.500000) " xlink:href="#path-3"></use>
+                    <text id="4.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="40" y="12">4.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-6)" stroke-width="2" transform="translate(48.000000, 95.500000) scale(1, -1) translate(-48.000000, -95.500000) " xlink:href="#path-5"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="36" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-12)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-11"></use>
+                    <text id="4.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">4.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-14)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-13"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 384.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-18)" stroke-width="2" xlink:href="#path-17"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-20)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-19"></use>
+                    <text id="4.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">4.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-22)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-21"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-24)" stroke-width="2" xlink:href="#path-23"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-11">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-26)" stroke-width="2" xlink:href="#path-25"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-28)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-27"></use>
+                    <text id="4.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">4.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-30)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-29"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-32)" stroke-width="2" xlink:href="#path-31"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <text id="Teachers" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="22" y="57">Teachers</tspan>
+                </text>
+                <text id="Teacher-info" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="87.018" y="185">Teacher info</tspan>
+                </text>
+                <text id="Add-teacher" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="87.252" y="441">Add teacher</tspan>
+                </text>
+                <text id="Upload-teachers" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="104.313" y="561">Upload </tspan>
+                    <tspan x="100.036" y="577">teachers</tspan>
+                </text>
+                <g id="Group-11" transform="translate(150.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-34)" stroke-width="2" xlink:href="#path-33"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-36)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-35"></use>
+                    <text id="4.1.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">4.1.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-38)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-37"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-40)" stroke-width="2" xlink:href="#path-39"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <text id="Teacher’s-classes" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="170.572" y="305">Teacher’s </tspan>
+                    <tspan x="176.669" y="321">classes</tspan>
+                </text>
+            </g>
+            <g id="Group-19">
+                <text id="Licenses" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="22.385" y="57">Licenses</tspan>
+                </text>
+                <g id="Group-4" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-42)" stroke-width="2" xlink:href="#path-41"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-44)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-43"></use>
+                    <text id="1.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">1.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-46)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-45"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <text id="Licenses-by-school" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="13.288" y="49">Licenses by </tspan>
+                        <tspan x="29.759" y="65">school</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-48)" stroke-width="2" xlink:href="#path-47"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                </g>
+                <g id="Group-5">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-50)" stroke-width="2" xlink:href="#path-49"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-52)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-51"></use>
+                    <text id="1.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">1.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-54)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-53"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-56)" stroke-width="2" xlink:href="#path-55"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-6" transform="translate(75.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-58)" stroke-width="2" xlink:href="#path-57"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-60)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-59"></use>
+                    <text id="1.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">1.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-62)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-61"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <text id="Licenses-by-teacher" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="13.288" y="49">Licenses by </tspan>
+                        <tspan x="27.036" y="65">teacher</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-64)" stroke-width="2" xlink:href="#path-63"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(75.000000, 384.000000)">
+                    <text id="Licenses-by-class" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="12.788" y="49">Licenses by </tspan>
+                        <tspan x="33.928" y="65">class</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-66)" stroke-width="2" xlink:href="#path-65"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-68)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-67"></use>
+                    <text id="1.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">1.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-70)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-69"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-72)" stroke-width="2" xlink:href="#path-71"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(49.000000, 103.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                    <path d="M2,205 L22,205" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,205 L11.2,202 L11.2,208 L22,205 Z" fill="#9B9B9B"></path>
+                    <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                    <path d="M1.5,0.5 L1.5,333" id="Line"></path>
+                </g>
+            </g>
+            <g id="Group-15" transform="translate(553.000000, 0.000000)">
+                <g id="Group-11">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-74)" stroke-width="2" xlink:href="#path-73"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-76)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-75"></use>
+                    <text id="3.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">3.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-78)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-77"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-80)" stroke-width="2" xlink:href="#path-79"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(75.000000, 384.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-82)" stroke-width="2" xlink:href="#path-81"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-84)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-83"></use>
+                    <text id="3.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">3.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-86)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-85"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-88)" stroke-width="2" xlink:href="#path-87"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-90)" stroke-width="2" xlink:href="#path-89"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-92)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-91"></use>
+                    <text id="3.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">3.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-94)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-93"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-96)" stroke-width="2" xlink:href="#path-95"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-98)" stroke-width="2" xlink:href="#path-97"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-100)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-99"></use>
+                    <text id="3.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">3.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-102)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-101"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-104)" stroke-width="2" xlink:href="#path-103"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <text id="Admins" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="26.396" y="57">Admins</tspan>
+                </text>
+                <text id="Admin-info" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="91.414" y="185">Admin info</tspan>
+                </text>
+                <text id="Add-admin" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="91.389" y="313">Add admin</tspan>
+                </text>
+                <text id="Upload-admins" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="102.313" y="433">Upload </tspan>
+                    <tspan x="102.173" y="449">admins</tspan>
+                </text>
+                <g id="Group-3" transform="translate(49.000000, 103.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                    <path d="M2,205 L22,205" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,205 L11.2,202 L11.2,208 L22,205 Z" fill="#9B9B9B"></path>
+                    <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                    <path d="M1.5,0.5 L1.5,333" id="Line"></path>
+                </g>
+            </g>
+            <g id="Group-14" transform="translate(239.000000, 0.000000)">
+                <g id="Group-11" transform="translate(150.000000, 384.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-106)" stroke-width="2" xlink:href="#path-105"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-108)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-107"></use>
+                    <text id="2.1.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">2.1.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-110)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-109"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-112)" stroke-width="2" xlink:href="#path-111"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                </g>
+                <text id="Students-within-scho" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="171.86" y="425">Students </tspan>
+                    <tspan x="181.597" y="441">within </tspan>
+                    <tspan x="179.259" y="457">school</tspan>
+                </text>
+                <text id="Classes-within-schoo" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="175.374" y="553">Classes </tspan>
+                    <tspan x="181.597" y="569">within </tspan>
+                    <tspan x="179.259" y="585">school</tspan>
+                </text>
+                <g id="Group-11" transform="translate(150.000000, 512.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-114)" stroke-width="2" xlink:href="#path-113"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-116)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-115"></use>
+                    <text id="2.1.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">2.1.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-118)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-117"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-120)" stroke-width="2" xlink:href="#path-119"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                </g>
+                <g id="Group-9">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-122)" stroke-width="2" xlink:href="#path-121"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-124)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-123"></use>
+                    <text id="2.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">2.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-126)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-125"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <text id="Schools" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="25.723" y="43">Schools</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-128)" stroke-width="2" xlink:href="#path-127"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-130)" stroke-width="2" xlink:href="#path-129"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-132)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-131"></use>
+                    <text id="2.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">2.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-134)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-133"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <text id="School-information" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="28.223" y="49">School </tspan>
+                        <tspan x="14.734" y="65">information</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-136)" stroke-width="2" xlink:href="#path-135"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(150.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-138)" stroke-width="2" xlink:href="#path-137"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-140)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-139"></use>
+                    <text id="2.1.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">2.1.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-142)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-141"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-144)" stroke-width="2" xlink:href="#path-143"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                    </text>
+                    <text id="Teachers-within-scho" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="22" y="49">Teachers </tspan>
+                        <tspan x="8.91" y="65">within school</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(123.000000, 230.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                    <path d="M2,205 L22,205" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,205 L11.2,202 L11.2,208 L22,205 Z" fill="#9B9B9B"></path>
+                    <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                    <path d="M1.5,0.5 L1.5,333" id="Line"></path>
+                </g>
+                <path d="M50,180 L70,180" id="Line" stroke="#979797" stroke-linecap="square" fill="#9B9B9B"></path>
+                <path id="Line-decoration-1" d="M70,180 L59.2,177 L59.2,183 L70,180 Z" stroke="#979797" stroke-linecap="square" fill="#9B9B9B"></path>
+                <path d="M50,104 L50,179" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-17" transform="translate(1106.000000, 0.000000)">
+                <g id="Group-11">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-146)" stroke-width="2" xlink:href="#path-145"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-148)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-147"></use>
+                    <text id="5.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">5.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-150)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-149"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-152)" stroke-width="2" xlink:href="#path-151"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-154)" stroke-width="2" xlink:href="#path-153"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-156)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-155"></use>
+                    <text id="5.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">5.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-158)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-157"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-160)" stroke-width="2" xlink:href="#path-159"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 384.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-162)" stroke-width="2" xlink:href="#path-161"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-164)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-163"></use>
+                    <text id="5.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">5.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-166)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-165"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-168)" stroke-width="2" xlink:href="#path-167"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(150.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-170)" stroke-width="2" xlink:href="#path-169"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-172)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-171"></use>
+                    <text id="5.1.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">5.1.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-174)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-173"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-176)" stroke-width="2" xlink:href="#path-175"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(75.000000, 512.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-178)" stroke-width="2" xlink:href="#path-177"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-180)" stroke-width="2" transform="translate(48.000000, 7.500000) scale(1, -1) translate(-48.000000, -7.500000) " xlink:href="#path-179"></use>
+                    <text id="5.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="40" y="12">5.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-182)" stroke-width="2" transform="translate(48.000000, 95.500000) scale(1, -1) translate(-48.000000, -95.500000) " xlink:href="#path-181"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="36" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-184)" stroke-width="2" xlink:href="#path-183"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <text id="Students" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="22.36" y="57">Students</tspan>
+                </text>
+                <text id="Student-info" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="87.378" y="185">Student info</tspan>
+                </text>
+                <text id="Add-student" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="87.112" y="441">Add student</tspan>
+                </text>
+                <text id="Upload-students" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="102.313" y="561">Upload </tspan>
+                    <tspan x="97.896" y="577">students</tspan>
+                </text>
+                <text id="Student’s-classes" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="170.432" y="305">Student’s </tspan>
+                    <tspan x="176.669" y="321">classes</tspan>
+                </text>
+                <g id="Group-13" transform="translate(49.000000, 103.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M3,460 L23,460" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M23,460 L12.2,457 L12.2,463 L23,460 Z" fill="#9B9B9B"></path>
+                    <g id="Group-8">
+                        <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                        <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                        <path d="M1.5,0.5 L1.5,460.5" id="Line"></path>
+                        <g id="Group-7" transform="translate(75.000000, 127.000000)">
+                            <path d="M1,76 L21,76" id="Line" fill="#9B9B9B"></path>
+                            <path id="Line-decoration-1" d="M21,76 L10.2,73 L10.2,79 L21,76 Z" fill="#9B9B9B"></path>
+                            <path d="M1,-7.77156117e-16 L1,75" id="Line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-18" transform="translate(1420.000000, 0.000000)">
+                <g id="Group-12" transform="translate(75.000000, 128.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-186)" stroke-width="2" xlink:href="#path-185"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-188)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-187"></use>
+                    <text id="6.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">6.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-190)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-189"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-192)" stroke-width="2" xlink:href="#path-191"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                        <tspan x="103.843" y="61">T</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(75.000000, 384.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-194)" stroke-width="2" xlink:href="#path-193"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-196)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-195"></use>
+                    <text id="6.2" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">6.2</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-198)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-197"></use>
+                    <text id="form" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">form</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-200)" stroke-width="2" xlink:href="#path-199"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                        <tspan x="103.843" y="61">T</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(150.000000, 256.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-202)" stroke-width="2" xlink:href="#path-201"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-204)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-203"></use>
+                    <text id="6.1.1" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="12">6.1.1</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-206)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-205"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-208)" stroke-width="2" xlink:href="#path-207"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                        <tspan x="103.843" y="61">T</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(75.000000, 512.000000)">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-210)" stroke-width="2" xlink:href="#path-209"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-212)" stroke-width="2" transform="translate(48.000000, 7.500000) scale(1, -1) translate(-48.000000, -7.500000) " xlink:href="#path-211"></use>
+                    <text id="6.3" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="40" y="12">6.3</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-214)" stroke-width="2" transform="translate(48.000000, 95.500000) scale(1, -1) translate(-48.000000, -95.500000) " xlink:href="#path-213"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="36" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-216)" stroke-width="2" xlink:href="#path-215"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                    </text>
+                </g>
+                <text id="Classes" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="25.374" y="57">Classes</tspan>
+                </text>
+                <text id="Class-information" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="107.633" y="177">Class </tspan>
+                    <tspan x="89.734" y="193">information</tspan>
+                </text>
+                <text id="Add-class" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="94.144" y="441">Add class</tspan>
+                </text>
+                <text id="Upload-classes" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="102.813" y="561">Upload </tspan>
+                    <tspan x="102.169" y="577">classes</tspan>
+                </text>
+                <g id="Group-11">
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-218)" stroke-width="2" xlink:href="#path-217"></use>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-220)" stroke-width="2" transform="translate(50.000000, 7.500000) scale(1, -1) translate(-50.000000, -7.500000) " xlink:href="#path-219"></use>
+                    <text id="6.0" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="42" y="12">6.0</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-222)" stroke-width="2" transform="translate(50.000000, 95.500000) scale(1, -1) translate(-50.000000, -95.500000) " xlink:href="#path-221"></use>
+                    <text id="table" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="38" y="100">table</tspan>
+                    </text>
+                    <use id="Rectangle-43" stroke="#979797" mask="url(#mask-224)" stroke-width="2" xlink:href="#path-223"></use>
+                    <text id="D" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="103.128" y="37">D</tspan>
+                        <tspan x="103.436" y="49">S</tspan>
+                        <tspan x="103.843" y="61">T</tspan>
+                    </text>
+                </g>
+                <text id="Students-in-class" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="172.36" y="305">Students </tspan>
+                    <tspan x="177.036" y="321">in class</tspan>
+                </text>
+                <g id="Group-13" transform="translate(48.000000, 103.000000)" stroke="#979797" stroke-linecap="square">
+                    <path d="M3,460 L23,460" id="Line" fill="#9B9B9B"></path>
+                    <path id="Line-decoration-1" d="M23,460 L12.2,457 L12.2,463 L23,460 Z" fill="#9B9B9B"></path>
+                    <g id="Group-8">
+                        <path d="M2,77 L22,77" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,77 L11.2,74 L11.2,80 L22,77 Z" fill="#9B9B9B"></path>
+                        <path d="M2,333 L22,333" id="Line" fill="#9B9B9B"></path>
+                        <path id="Line-decoration-1" d="M22,333 L11.2,330 L11.2,336 L22,333 Z" fill="#9B9B9B"></path>
+                        <path d="M1.5,0.5 L1.5,460.5" id="Line"></path>
+                        <g id="Group-7" transform="translate(75.000000, 127.000000)">
+                            <path d="M1,76 L21,76" id="Line" fill="#9B9B9B"></path>
+                            <path id="Line-decoration-1" d="M21,76 L10.2,73 L10.2,79 L21,76 Z" fill="#9B9B9B"></path>
+                            <path d="M1,-7.77156117e-16 L1,75" id="Line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="User-levels" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="0" y="628">User-levels</tspan>
+                <tspan x="0" y="644">D = District user (district coaches, district leaders)</tspan>
+                <tspan x="0" y="660">S = School user (principals, department heads)</tspan>
+                <tspan x="0" y="676">T = Teacher user</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

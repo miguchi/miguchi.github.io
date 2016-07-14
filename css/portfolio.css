@@ -1,0 +1,214 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab';
+
+.navbar-brand, h1, h2, h3 {
+  /*font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;*/
+  font-family: "Roboto Slab", Georgia, "Times New Roman", serif;
+
+}
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.color {
+  color: #ff3466;
+}
+
+.megan-brand {
+  margin-top: 0px;
+}
+
+.megan-brand a {
+  font-size: 24px;
+}
+
+.navbar {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.btn {
+  border-radius: 3px;
+}
+
+header {
+  margin-top: 77px;
+  height: 80vh;
+}
+
+/*NEED WEBKIT HERE*/
+header h2 {
+  margin-top: 27vh;
+  font-size: 5rem;
+  animation: header-slide-in 1.5s .5s 1 ease-in both;
+}
+
+@keyframes header-slide-in {
+  0% {
+    opacity: 0;
+    transform: scale(.95);
+  }
+  75% {
+    opacity: .8;
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);}
+}
+
+.philosophy {
+  padding-top: 77px;
+  padding-bottom: 77px;
+  background-color: #e3e3e3;
+}
+
+.philosophy h2 {
+  font-size: 24px;
+  margin-top: 0px;
+}
+
+.philosophy p {
+  color: #222222;
+}
+
+/*NEED WEBKIT*/
+
+.philosophy-row {
+  padding-top: 1em;
+  transition: background-color .4s;
+}
+
+.philosophy-row:hover {
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 3px;
+  transition: background-color .4s;
+}
+
+main h2, main h3, .philosophy h1 {
+  margin-top: 0px;
+}
+
+main img {
+  width: 100%;
+}
+
+main .btn {
+  width: 350px;
+  background-color: #ff3466;
+  color: #ffffff;
+  border-color: #ff3466;
+  transition: background-color .6s, color .6s, border .6s;
+
+}
+
+main .btn:hover {
+  background-color: #ffffff;
+  color: #ff3466;
+  border: #ff3466 1px solid;
+}
+
+.portfolio-modal {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: none;
+  height: 100%;
+  z-index: 2000;
+}
+
+.modal {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.modal-content {
+  border: none;
+  height: auto;
+}
+
+.portfolio-modal .btn {
+  width: 100px;
+}
+
+.modal-header, .modal-footer {
+  border: none;
+}
+
+.project1, .project2, .project3, .project4 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.project2 {
+  background-color: #e3e3e3;
+}
+
+.project2 img{
+  height: 40vh;
+}
+
+/*formatting within modal*/
+.modal-content img {
+  max-height: 500px;
+}
+
+.override-500 img{
+  max-height: 75%;
+}
+
+.student-filter {
+  height: 150px;
+}
+
+figcaption {
+  margin-bottom: 1em;
+  font-family: "Roboto Slab", Georgia, "Times New Roman", serif;
+  color: #000;
+  font-size: 1.25em;
+}
+
+figure {
+  margin-bottom: 1em;
+}
+
+.margin-top-sm {
+  margin-top: 2em;
+}
+
+.about {
+  background-color: #e3e3e3;
+  padding-top: 77px;
+  padding-bottom: 77px;
+}
+
+footer {
+  background-color: #222222;
+  color: #ffffff;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+/*medium*/
+@media only screen and (max-width: 992px) {
+  header h2 {
+    font-size: 3rem;
+  }
+}
+
+/*small*/
+@media only screen and (max-width: 768px) {
+  .philosophy-background {
+    background-image: none;
+  }
+  main .btn {
+    width: 100%;
+}
+
+/*xsmall*/
+@media only screen and (max-width: 450px) {
+  header h2 {
+    font-size: 24px;
+  }
+}
